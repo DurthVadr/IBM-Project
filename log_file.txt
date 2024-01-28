@@ -1,0 +1,10 @@
+2024-01-28 04:12:45.547484: ETL Job Started
+2024-01-28 04:12:45.609541: Extract phase Started
+2024-01-28 04:16:49.089064: ETL Job Started
+2024-01-28 04:16:49.096071: Extract phase Started
+2024-01-28 04:16:49.158127: Extract phase Ended
+2024-01-28 04:16:49.163132: Transform phase Started
+2024-01-28 04:16:49.178146: Transform phase Ended
+2024-01-28 04:16:49.183150: Load phase Started
+2024-01-28 04:16:49.194160: Load phase Ended
+2024-01-28 04:16:49.201174: ETL Job Ended
